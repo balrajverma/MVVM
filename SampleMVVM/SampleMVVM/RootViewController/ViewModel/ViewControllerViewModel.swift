@@ -3,7 +3,7 @@
 //  SampleMVVM
 //
 //  Created by Balraj on 05/01/19.
-//  Copyright © 2019 IBM. All rights reserved.
+//  Copyright © 2019 . All rights reserved.
 //
 
 
